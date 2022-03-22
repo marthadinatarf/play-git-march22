@@ -7,5 +7,9 @@ func Assignpegawai() {
 }
 
 func ApresiasiRekan() {
-	fmt.println("anda hebat")
+	fmt.Println("anda hebat")
+}
+
+func IstirahatRekan() {
+	fmt.Println("ayok makan siang")
 }
