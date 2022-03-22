@@ -10,6 +10,10 @@ func ApresiasiRekan() {
 	fmt.Println("anda hebat")
 }
 
-func IstirahatRekan() {
-	fmt.Println("ayok makan siang")
+func TambahCuti() {
+	fmt.Println("Selamat berlibur")
+}
+
+func Tambahgaji() {
+	fmt.Println("Gaji sudah naik")
 }
