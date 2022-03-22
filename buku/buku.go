@@ -9,3 +9,7 @@ func CetakBuku() {
 func PinjamBuku() {
 	fmt.Println("buku telah dipinjam")
 }
+
+func KembaliBuku() {
+	fmt.Println("buku telah dikembalikan")
+}
